@@ -15,4 +15,4 @@ eureka:
     server:
       waitTimeInMsWhenSyncEmpty: 0
 server:
-  port:8670
+  port: 8670
