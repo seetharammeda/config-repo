@@ -1,12 +1,2 @@
-spring:
-  datasource:
-    #driverClassName: com.hsqldb.jdbcDriver
-    url: jdbc:hsqldb:hsql://localhost/storenear
-    username:
-    password:
-  jpa:
-   databasePlatform: org.hibernate.dialect.HSQLDialect
-   hibernate.ddl-auto: update  
-   show-sql: true
 server:
-  port: 8081
+  port: 8089
