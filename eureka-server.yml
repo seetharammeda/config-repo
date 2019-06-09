@@ -8,8 +8,8 @@ spring:
       overrideSystemProperties: false
 eureka:
   client:
-    serviceUrl:
-      defaultZone: http://localhost:8670/eureka/
+#    serviceUrl:
+#      defaultZone: http://localhost:8670/eureka/
     registerWithEureka: false
     fetchRegistry: false
     server:
